@@ -24,6 +24,11 @@ This chapter is the first step.
 sudo apt-get upgrade -y
 sudo apt-get update -y
 ```
+```shell
+# Ubuntu commands.
+sudo apt-get upgrade -y
+sudo apt-get update -y
+```
 ```html
 <script src="./script/script.js"></script>
 ```
