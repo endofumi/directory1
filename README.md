@@ -43,12 +43,12 @@ You can find the image of `Yakiniku` by using [`google`](https://www.google.co.j
 
 ## Usage
 You can use it by yourself.
-[hello : world]()  
-[hello : world]()  [x]
-[hello : world]()  
-[hello : world]()  
-[hello : world]()  Here!
-[hello : world]()  
+- [hello : world]()  
+- [hello : world]()  [x]
+- [hello : world]()  
+- [hello : world]()  
+- [hello : world]()  Here!
+- [hello : world]()  
 
 ## Requirement
 
