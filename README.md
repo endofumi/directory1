@@ -5,7 +5,7 @@ This is for test.
 ### Chapter1
 This chapter is the first step.
 
-```
+```sh
 # Ubuntu commands.
 sudo apt-get upgrade -y
 sudo apt-get update -y
